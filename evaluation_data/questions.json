@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How can I add my credit card to my phone's digital wallet?",
+    "answer": "You can add your cards to a digital wallet through the cards page in the ONE ZERO mobile app. This page also allows you to order, cancel, or replace cards.",
+    "relevant ### headers": [
+      "Cards via the mobile application - issue a new card, card-related actions, PIN code, join digital wallet"
+    ]
+  },
+  {
+    "question": "What are the fees for using my card abroad if I am on the ZERO subscription plan?",
+    "answer": "On the ZERO subscription plan, you will be charged a 2% commission for foreign currency card transactions and a 3% fee for foreign currency ATM withdrawals (both in Israel and abroad). To avoid exchange fees, you may consider upgrading to the ONE or ONE PLUS plans.",
+    "relevant ### headers": [
+      "What do you need to know before traveling abroad?"
+    ]
+  },
+  {
+    "question": "What should I do if an ATM in Israel didn't give me cash but charged my account?",
+    "answer": "You should wait three business days as the funds are usually credited back automatically. If you haven't received a refund after three days, contact a private banker with the ATM location and the withdrawal amount. For debit cards, wait 24 hours for pending charges to clear.",
+    "relevant ### headers": [
+      "Handling Cash Withdrawal Failures"
+    ]
+  },
+  {
+    "question": "What is the daily limit for withdrawing cash in Israel using a credit card vs a debit card?",
+    "answer": "With a credit card, you can withdraw up to 10,000 ILS per day (max 8,000 ILS in a single stroke). With a debit card, the daily withdrawal limit is 5,000 ILS per day.",
+    "relevant ### headers": [
+      "Cash Withdrawals limit using ONE ZERO Credit Card",
+      "Cash Withdrawals limit using ONE ZERO Debit Card"
+    ]
+  },
+  {
+    "question": "Who should I contact for help with my card while I am traveling outside of Israel?",
+    "answer": "You should contact Isracard's customer service via their website, WhatsApp (+972548947598), or phone (+97236364666). You can also ask a private banker to check with the credit card company on your behalf.",
+    "relevant ### headers": [
+      "Card Assistance abroad"
+    ]
+  }
+]

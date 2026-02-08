@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Can I use my card to make purchases before the physical card arrives in the mail?",
+    "answer": "Yes. The day after you order any card, you will receive an SMS with a secure link to your virtual card details. You can use these details for online purchases or add them to a digital wallet for use in physical businesses immediately.",
+    "rellevent_chanks_id": ["7f31d91f-c731-457f-a04f-0801090ec523"]
+  },
+  {
+    "question": "I noticed a spelling mistake on my new card and my last name is cut short. What should I do?",
+    "answer": "To fix a spelling error, send a request to a private banker with your name in English or a photo of your passport. Regarding the length, there is a 20-character limit, so longer names are automatically shortened.",
+    "rellevent_chanks_id": ["fde18f47-8212-4605-9681-1cfcf94f58be"]
+  },
+  {
+    "question": "Can I deposit cash into my account at an ATM?",
+    "answer": "No, cash deposits are not currently possible at ONE ZERO Bank. You can, however, deposit checks or transfer funds from another bank account.",
+    "rellevent_chanks_id": ["a45edd69-b191-446a-9624-3bc114106814"]
+  },
+  {
+    "question": "How much does it cost to replace a lost card?",
+    "answer": "For customers on the ZERO plan, a regular replacement costs 10 ILS, while immediate issuance costs 40 ILS. Customers on ONE or ONE PLUS plans are exempt from these fees.",
+    "rellevent_chanks_id": ["4e726cee-ffdc-47e5-8884-224758a38a0b"]
+  },
+  {
+    "question": "I'm traveling in five days. Does the bank provide travel insurance?",
+    "answer": "Yes, AIG provides travel insurance for five days to Israeli residents with an Israeli ID card aged 18-85. You can view the full terms through the Isracard link provided in the guide.",
+    "rellevent_chanks_id": ["38131e66-7c02-4199-9582-adcea6bf22d9"]
+  },
+  {
+    "question": "Can I pick up my card in person instead of waiting for mail delivery?",
+    "answer": "Yes, you can pick up your card at Beit Oved 5, Tel Aviv, from Sunday to Thursday (08:00-18:00). You must schedule an appointment through a private banker and present a valid ID or driver's license.",
+    "rellevent_chanks_id": ["f7253ac2-2e3a-41c5-8c2c-e74ea585b2f7"]
+  },
+  {
+    "question": "What happens if I tried to withdraw cash, didn't get the money, but was charged twice?",
+    "answer": "The ATM system performs an automatic count at the end of the business day and usually corrects discrepancies. If the charge isn't refunded after 3 business days, contact a private banker with the location and amount details.",
+    "rellevent_chanks_id": ["03e5c832-38fd-4f68-a289-f7620462026a"]
+  },
+  {
+    "question": "How many cards can I have in a joint account?",
+    "answer": "In a joint account, each account holder can order one credit card (subject to approval) and one debit card.",
+    "rellevent_chanks_id": ["2a4163b1-fdcc-44fa-a8bc-69d3967007ed"]
+  },
+  {
+    "question": "What is the process for receiving and activating a card sent by mail?",
+    "answer": "Cards are sent via 'Quick to Mailbox' (Israel Post) and typically arrive within 7 business days. You will receive an SMS when it arrives. Once collected, you can activate it via the bank's app or Isracard's website.",
+    "rellevent_chanks_id": ["9d9e420f-2f36-457d-a538-7eae92fe9c0a", "7f31d91f-c731-457f-a04f-0801090ec523"]
+  },
+  {
+    "question": "Can I use a digital card to withdraw cash from an ATM?",
+    "answer": "No, it is not possible to withdraw money using a digital card; you must have the physical card to perform ATM withdrawals.",
+    "rellevent_chanks_id": ["7f31d91f-c731-457f-a04f-0801090ec523", "42ffe78c-c561-411b-808e-2c8ed2b64c4f"]
+  }
+]

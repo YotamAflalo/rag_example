@@ -1,0 +1,1 @@
+#TODO - create logger.py file and move all print statements there, with different log levels (info, warning, error) and timestamps. Use this logger in all other files instead of print statements.
