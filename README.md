@@ -5,11 +5,25 @@ A Python data science project for the OneZero exercise.
 
 ## Project Structure
 ```
-onezero_ex/
+onezero_ex_yotam/
 ├── README.md
 ├── main.py
 ├── requirements.txt
-└── data/
+├── create_index.py
+├── evaluate_rag.py
+├── qna_bot.py
+├── build_rag.ipynb
+├── docs/
+│   ├── cards.md
+│   └── securities.md
+├── evaluation_data/
+│   ├── questions.json
+│   ├── chanks_recall_questions.json
+│   └── results/
+├── prompts/
+└── vectors/
+    ├── vector_store_data_md_spliter.json
+    └── vector_store_data_md_spliter_chunk.json
 ```
 
 ## Installation
